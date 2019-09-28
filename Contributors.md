@@ -277,8 +277,10 @@
 - [Kazmuir Long]()
 - [Rafael Queiroz](https://github.com/rafael-mq)
 - [Swapnik Kota]
+- [NaseerMohammad](https://github.com/NsrM)
 - [Aleko]()
 - [Yunkun Xie](http://github.com/Honey0Badger)
+:e
 - [Ali Asgar](https://github.com/aliasgar12)
 - [Jennifer Colna](https://github.com/JNC260)
 - [Aderajew Mengistu](https://github.com/ajmengistu)
